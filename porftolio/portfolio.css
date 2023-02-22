@@ -4,11 +4,19 @@
 
 
 * {
-	background: #FEFCF3;
 	font-family: 'Gloock', serif;;
 }
 
-.name {
-	margin-top:200px;
-	font-family: font-family: 'Quicksand', sans-serif;
+
+
+#bg-image{
+	background-image:url(../img/bg.png) ;
+	 background-size: cover;
+	 background-repeat: no-repeat;
+	 
+}
+
+.aaa {
+	color: #3C2317;
+	background-color: rgba(201, 169, 166, 0.5);
 }

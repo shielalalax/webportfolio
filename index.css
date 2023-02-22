@@ -1,6 +1,7 @@
 /*font
+	font-family: 'Cookie', cursive;
 	font-family: 'Gloock', serif;
-	font-family: 'Quicksand', sans-serif; */
+	font-family: 'Quicksand', sans-serif;*/
 
 
 * {
@@ -11,4 +12,13 @@
 .name {
 	margin-top:200px;
 	font-family: font-family: 'Quicksand', sans-serif;
+}
+
+.h4 {
+	font-family: 'Cookie', cursive;
+}
+
+.name{
+	margin-top: 150px;
+
 }
