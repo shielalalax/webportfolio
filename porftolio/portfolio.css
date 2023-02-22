@@ -1,0 +1,14 @@
+/*font
+	font-family: 'Gloock', serif;
+	font-family: 'Quicksand', sans-serif; */
+
+
+* {
+	background: #FEFCF3;
+	font-family: 'Gloock', serif;;
+}
+
+.name {
+	margin-top:200px;
+	font-family: font-family: 'Quicksand', sans-serif;
+}

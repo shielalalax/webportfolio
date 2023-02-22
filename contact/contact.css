@@ -1,0 +1,19 @@
+/*font
+	font-family: 'Gloock', serif;
+	font-family: 'Quicksand', sans-serif; */
+
+
+* {
+	background: #F5EFE6;
+	font-family: 'Gloock', serif;;
+}
+
+.form {
+	background-color:#D0B8A8;
+}
+
+footer {
+	color:#674747;
+	background-color: transparent;
+  	text-decoration: none;
+}
